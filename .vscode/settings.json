@@ -1,0 +1,12 @@
+{
+    "markdown-preview-enhanced.mermaidTheme": "dark",
+    "markdown-preview-enhanced.codeBlockTheme": "monokai.css",
+    "markdown-preview-enhanced.previewTheme": "monokai.css",
+    "workbench.colorTheme": "antyu",
+    "workbench.preferredDarkColorTheme": "antyu",
+    "workbench.preferredHighContrastColorTheme": "antyu",
+    "workbench.preferredHighContrastLightColorTheme": "antyu",
+    "workbench.preferredLightColorTheme": "antyu",
+    "window.autoDetectColorScheme": true,
+    "markdown-preview-enhanced.revealjsTheme": "moon.css"
+}
