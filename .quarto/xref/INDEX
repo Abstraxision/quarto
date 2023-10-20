@@ -2,5 +2,11 @@
   "quarto.qmd": {
     "quarto.html": "24375fb3",
     "quarto.tex": "aaec5860"
+  },
+  "qmdtest.qmd": {
+    "qmdtest.html": "6f6b3d93"
+  },
+  "quartotest3.qmd": {
+    "quartotest3.html": "944ac178"
   }
 }

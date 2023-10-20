@@ -1,0 +1,18 @@
+---
+title: "Quart Document"
+format: html
+theme: darkly
+---
+
+Okay but will it YESSSSS
+
+```{r}
+# Testing to see if this code chunk will run
+
+
+hist(sample(c(1:100), size=50, replace = TRUE))
+print("sigh")
+
+
+
+```

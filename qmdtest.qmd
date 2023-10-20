@@ -1,0 +1,25 @@
+# Okay testing live preview
+
+this is fucking great i am actually so ecstatic rn :D
+
+```{r}
+
+samp = sample(c(1:100), size=50, replace = TRUE)
+hist(samp)
+
+
+
+```
+
+```{r}
+
+hist(sample(c(1:100), size=50, replace=TRUE))
+
+
+```
+
+why is this compliciated
+
+whyyyyyyyy
+
+ugh
